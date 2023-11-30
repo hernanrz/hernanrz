@@ -24,5 +24,5 @@ And also:
 
 Currently learning about:
 
-* NLP
-* Search with Solr
+* NLP and how to extract data from documents
+* Search and indexation with Apache Solr
