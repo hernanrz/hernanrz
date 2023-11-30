@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Hernán Ruíz, a systems engineer from Venezuela 🇻🇪 very much into chess. 
 <!--
 **hernanrz/hernanrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+And also:
+
+* React
+* Docker/Container orchestration
+* CI/CD
+* Video Streaming
+* Linux
+
+Currently learning about:
+
+* NLP
+* Search with Solr
